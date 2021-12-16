@@ -1,0 +1,6 @@
+{
+  "protocol": "wss",
+  "hostname": "stream.binance.com",
+  "port": 9443,
+  "URL_path": "/ws/"
+}

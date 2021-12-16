@@ -1,0 +1,10 @@
+{
+  "protocol": "wss",
+  "hostname": "stream.binance.com",
+  "port": 9443,
+  "URL_path": "/ws/",
+
+  "stream_names": "btcusdt@kline_1m",
+
+  "window_size": 5
+}
